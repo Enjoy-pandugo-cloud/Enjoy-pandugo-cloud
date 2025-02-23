@@ -44,7 +44,7 @@ ysathyasai.dev@gmail.com
 
 <h1><img src="https://github.com/user-attachments/assets/0ece6e98-00f7-4e38-af34-470278793621" width="32px"> Tech Stack:</h1>
 
-<img align='right' src="https://github.com/user-attachments/assets/827c55d0-6cab-487e-93ac-f577f0bf7012" width="350">
+<img align='right' src="https://github.com/user-attachments/assets/827c55d0-6cab-487e-93ac-f577f0bf7012" width="325">
 <br>
 
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
