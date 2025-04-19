@@ -15,7 +15,6 @@ Hey, My Name is ```Yejju Sathya Sai```, I'm a second year AI & ML student at Gov
 <br>💻 I love building innovative projects, contributing to open-source, and exploring new technologies. 
 <br>🌐 I’m working on automation scripts, and AI-powered applications and constantly updating my skills. 
 <br>📚 Passionate about AI, ML, and developing free tools to help others get started with technology. 
-<br>🛠️ Tech Stack: Linux | Shell Scripting | Node.js | Stable Diffusion | DALL-E | ChatGPT 
 <br>💡 Let’s connect, collaborate, and create something amazing together!
 
 
