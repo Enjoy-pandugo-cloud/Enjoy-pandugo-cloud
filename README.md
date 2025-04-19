@@ -18,6 +18,7 @@ Hey, My Name is ```Yejju Sathya Sai```, I'm a second year AI & ML student at Gov
 <br>💡 Let’s connect, collaborate, and create something amazing together!
 
 <br>
+<br>
 
 📫 Reach out to me: [ysathyasai.dev](mailto:ysathyasai.dev@gmail.com)
 ``` css
@@ -36,7 +37,7 @@ ysathyasai.dev@gmail.com
 
 <h1><img src="https://github.com/user-attachments/assets/0ece6e98-00f7-4e38-af34-470278793621" width="32px"> Tech Stack:</h1>
 
-<img align='right' src="https://github.com/user-attachments/assets/827c55d0-6cab-487e-93ac-f577f0bf7012" width="250">
+<img align='right' src="https://github.com/user-attachments/assets/827c55d0-6cab-487e-93ac-f577f0bf7012" width="350">
 <br>
 
 
