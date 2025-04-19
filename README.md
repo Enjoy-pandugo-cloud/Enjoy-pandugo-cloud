@@ -17,7 +17,7 @@ Hey, My Name is ```Yejju Sathya Sai```, I'm a second year AI & ML student at Gov
 <br>📚 Passionate about AI, ML, and developing free tools to help others get started with technology. 
 <br>💡 Let’s connect, collaborate, and create something amazing together!
 
-
+<br>
 
 📫 Reach out to me: [ysathyasai.dev](mailto:ysathyasai.dev@gmail.com)
 ``` css
