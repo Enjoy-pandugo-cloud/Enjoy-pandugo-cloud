@@ -10,7 +10,7 @@ Hey, My Name is ```Yejju Sathya Sai```, I'm a second year AI & ML student at Gov
 
 <h1><img src="https://github.com/user-attachments/assets/73431132-dfa3-4f94-a46d-dfbdb7cfb0f5" width="32px"> About Me:</h1>
 🚀 I’m a Linux enthusiast, AI & ML learner, and open-source contributor. 
-<img align='right' src="https://github.com/user-attachments/assets/849ecd56-1855-4214-bb24-aa1ed771b7b5" width="250">
+<img align='right' src="https://github.com/user-attachments/assets/849ecd56-1855-4214-bb24-aa1ed771b7b5" width="225">
 <br>🔍 Currently exploring Oracle SQL, web development languages, and Linux system administration. 
 <br>💻 I love building innovative projects, contributing to open-source, and exploring new technologies. 
 <br>🌐 I’m working on automation scripts, and AI-powered applications and constantly updating my skills. 
