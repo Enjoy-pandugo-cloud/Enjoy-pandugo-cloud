@@ -9,12 +9,12 @@ Hey, My Name is ```Yejju Sathya Sai```, I'm a third year AI & ML student at Govt
 </h1>
 
 <h1><img src="https://github.com/user-attachments/assets/73431132-dfa3-4f94-a46d-dfbdb7cfb0f5" width="32px"> About Me:</h1>
-🚀 I’m a Linux enthusiast, AI & ML learner, and open-source contributor. 
+🚀 I’m a Linux user, AI & ML learner, and open-source contributor. 
 <img align='right' src="https://github.com/user-attachments/assets/849ecd56-1855-4214-bb24-aa1ed771b7b5" width="225">
-<br>🔍 Currently exploring Oracle SQL, web development languages, and Linux system administration. 
+<br>🔍 Currently exploring web development languages, and AI & ML Projects.
 <br>💻 I love building innovative projects, contributing to open-source, and exploring new technologies. 
 <br>🌐 I’m working on automation scripts, and AI-powered applications and constantly updating my skills. 
-<br>📚 Passionate about AI, ML, and developing free tools to help others get started with technology. 
+<br>📚 Passionate about AI & ML, Data Science and developing free tools to help others get started with technological Solutions.
 <br>💡 Let’s connect, collaborate, and create something amazing together!
 
 <br>
@@ -25,7 +25,7 @@ Hey, My Name is ```Yejju Sathya Sai```, I'm a third year AI & ML student at Govt
 ysathyasai.dev@gmail.com
 ```
 
-<h2><img src="https://github.com/user-attachments/assets/fcaa1f01-c749-4b10-afe7-e6d27e513af2" width="30px"> Socials:</h2>
+<h1><img src="https://github.com/user-attachments/assets/fcaa1f01-c749-4b10-afe7-e6d27e513af2" width="30px"> Socials:</h1>
 
 <div align="center">
 <a href="https://ysathyasai.medium.com/" target="blank"><img align="center" src="https://github.com/Srish-ty/Srish-ty/assets/68679980/4971616b-63d4-4bd0-909d-c9176b8653ba" alt="ysathyasai" height="35" width="40" /></a>
