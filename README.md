@@ -145,11 +145,18 @@ If you've made it this far, here's something [special](https://gist.github.com/y
 
 
 
+<img width="2319" height="2049" alt="Bluesky_Logo svg"  />
 
+
+<img width="640" height="443" alt="Youtube_logo"  />
 
 
 ## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/ysathyasai) 
+
+
+<a href="https://stackoverflow.com/users/30141912/yejju-sathya-sai" target="blank"><img align="center" src="https://github.com/user-attachments/assets/c717f2ab-2f1f-48de-8731-7044bfb1c821" alt="ysathyasai" height="35" width="40" /></a>
+<a href="https://bsky.app/profile/ysathyasai.bsky.social" target="blank"><img align="center" src="https://github.com/user-attachments/assets/2c819930-e86b-425e-b35e-830684d828f0" alt="ysathyasai" height="35" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/user-attachments/assets/f701e70e-2155-4647-aaf2-142692dee57e" alt="ysathyasai" height="35" width="40" /></a>
 
 
 
