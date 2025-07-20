@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img src="https://github.com/user-attachments/assets/64380716-228e-4a70-b272-78c9f89deb14" width="30px">, I'm Sathya Sai<img src="https://github.com/user-attachments/assets/e5332fcd-0795-42d4-95d6-9e368600cbcc" width="40px">!</h1>
 
-Hey, My Name is ```Yejju Sathya Sai```, I'm a second year AI & ML student at Govt. Institute of Electronics  <img src="https://github.com/user-attachments/assets/f8b1b87c-db91-4e99-87dd-16968ca8bed6" width="30px"> . I am a Tech Enthusiast. Looking forward to learning new skills and add them to the list.
+Hey, My Name is ```Yejju Sathya Sai```, I'm a third year AI & ML student at Govt. Institute of Electronics  <img src="https://github.com/user-attachments/assets/f8b1b87c-db91-4e99-87dd-16968ca8bed6" width="30px"> . I am a Tech Enthusiast. Looking forward to learning new skills and add them to the list.
 <br> <br>
 
 <h1 align="center">
@@ -30,9 +30,11 @@ ysathyasai.dev@gmail.com
 <div align="center">
 <a href="https://ysathyasai.medium.com/" target="blank"><img align="center" src="https://github.com/Srish-ty/Srish-ty/assets/68679980/4971616b-63d4-4bd0-909d-c9176b8653ba" alt="ysathyasai" height="35" width="40" /></a>
 <a href="https://linkedin.com/in/ysathyasai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ysathyasai" height="30" width="40" /></a>
+<a href="https://www.behance.net/ysathyasai" target="blank"><img align="center" src="https://github.com/user-attachments/assets/ad4c6451-ae53-4055-9e4b-7117861a512f" alt="ysathyasai" height="30" width="40" /></a>
 <a href="https://kaggle.com/ysathyasai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ysathyasai" height="30" width="40" /></a>
 <a href="https://x.com/ysathyasai" target="blank"><img align="center" src="https://github.com/user-attachments/assets/87a29fb0-05a4-466a-a7f7-0e1b0b0583b5" alt="ysathyasai" height="35" width="35" /></a>
 <a href="https://instagram.com/ysathyasai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ysathyasai" height="30" width="40" /></a>
+<a href="https://reddit.com/user/y_sathya_sai" target="blank"><img align="center" src="https://github.com/user-attachments/assets/509f2001-21a2-4663-87f9-412463b8becf" alt="y_sathya_sai" height="50" width="50" /></a>
 </div>
 
 <h1><img src="https://github.com/user-attachments/assets/0ece6e98-00f7-4e38-af34-470278793621" width="32px"> Tech Stack:</h1>
@@ -72,9 +74,7 @@ ysathyasai.dev@gmail.com
 [![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)](https://reactjs.org/docs/context.html)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
-[![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/)
-[![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)](https://about.facebook.com/meta/)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
@@ -128,6 +128,11 @@ ysathyasai.dev@gmail.com
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ysathyasai/ysathyasai/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ysathyasai/ysathyasai/output/github-snake.svg" />
 </picture>
+
+<h2><img src="https://github.com/user-attachments/assets/2a8442f7-6660-4671-8d55-6f89ef9fb37d" width="32px"> A Little Brain Teaser:</h2>
+
+If you've made it this far, here's something [special](https://gist.github.com/ysathyasai/4791099196b95935e18c8752e4346fb5) for the curious minds or even [this](https://gist.github.com/ysathyasai/8b0ef6dcc56565adaacabc3984731300.js) if you don't have a life 🧠
+
 
 
 <h2 align="center"><a href="https://github.com/ysathyasai">
