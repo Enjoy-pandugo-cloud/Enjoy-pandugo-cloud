@@ -82,6 +82,7 @@ ysathyasai.dev@gmail.com
 [![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)](https://ubuntu.com/)
 [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
@@ -145,10 +146,11 @@ If you've made it this far, here's something [special](https://gist.github.com/y
 
 
 
-<img width="2319" height="2049" alt="Bluesky_Logo svg"  />
 
 
-<img width="640" height="443" alt="Youtube_logo"  />
+<img width="980" height="980" alt="dribbble-logo-dribbble-logo-transparent-dribbble-icon-transparent-free-free-png"  />
+
+
 
 
 ## 🌐 Socials:
@@ -156,11 +158,20 @@ If you've made it this far, here's something [special](https://gist.github.com/y
 
 <a href="https://stackoverflow.com/users/30141912/yejju-sathya-sai" target="blank"><img align="center" src="https://github.com/user-attachments/assets/c717f2ab-2f1f-48de-8731-7044bfb1c821" alt="ysathyasai" height="35" width="40" /></a>
 <a href="https://bsky.app/profile/ysathyasai.bsky.social" target="blank"><img align="center" src="https://github.com/user-attachments/assets/2c819930-e86b-425e-b35e-830684d828f0" alt="ysathyasai" height="35" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://github.com/user-attachments/assets/f701e70e-2155-4647-aaf2-142692dee57e" alt="ysathyasai" height="35" width="40" /></a>
+<a href="https://youtube.com/@ysathyasai" target="blank"><img align="center" src="https://github.com/user-attachments/assets/f701e70e-2155-4647-aaf2-142692dee57e" alt="ysathyasai" height="35" width="40" /></a>
+<a href="https://mastodon.social/@ysathyasai" target="blank"><img align="center" src="https://github.com/user-attachments/assets/ee0748d5-cfbf-44c9-a7e6-2b03518971d6" alt="ysathyasai" height="35" width="40" /></a>
+<a href="https://codepen.io/ysathyasai" target="blank"><img align="center" src="https://github.com/user-attachments/assets/33ddd75f-63a5-4b81-9f47-c037617a3ae3" alt="ysathyasai" height="35" width="40" /></a>
+<a href="https://discord.com/users/1271371075799744535" target="blank"><img align="center" src="https://github.com/user-attachments/assets/3cca9885-e48b-4bad-be30-e19a06e64ffa" alt="ysathyasai" height="35" width="40" /></a>
+<a href="https://dev.to/ysathyasai" target="blank"><img align="center" src="https://github.com/user-attachments/assets/3109daa8-4774-4446-98ff-f3530a2ae905" alt="ysathyasai" height="35" width="40" /></a>
+<a href="https://leetcode.com/u/ysathyasai/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/48c8e838-6ffb-41c1-b908-55f750274722" alt="ysathyasai" height="35" width="40" /></a>
+<a href="https://facebook.com/ysathyasai" target="blank"><img align="center" src="https://github.com/user-attachments/assets/c7f6d9ff-f506-484d-b77c-0f81340390ea" alt="ysathyasai" height="35" width="40" /></a>
+<a href="https://hashnode.com/@ysathyasai" target="blank"><img align="center" src="https://github.com/user-attachments/assets/6ed896bb-3dbd-4f37-9245-6a859d034c83" alt="ysathyasai" height="35" width="40" /></a>
+<a href="https://www.codechef.com/users/ysathyasai" target="blank"><img align="center" src="https://github.com/user-attachments/assets/68e0454b-954f-4591-a355-0108c148686c" alt="ysathyasai" height="35" width="40" /></a>
+<a href="https://www.hackerrank.com/ysathyasai" target="blank"><img align="center" src="https://github.com/user-attachments/assets/43301af0-4e91-4349-b26f-7d34acd546ec" alt="ysathyasai" height="35" width="40" /></a>
+<a href="https://dribbble.com/ysathyasai" target="blank"><img align="center" src="https://github.com/user-attachments/assets/3c8f5214-8310-475c-8afd-98a78173defd" alt="ysathyasai" height="35" width="40" /></a>
 
 
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 <!---
 ysathyasai/ysathyasai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
