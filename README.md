@@ -140,8 +140,7 @@ If you've made it this far, here's something [special](https://gist.github.com/y
 </a> <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 </h2>
 
-
-
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=3000&height=50&duration=3500&pause=1500&color=1A9FFF&width=120&lines=Thank+you!"></h1>
 
 
 <!---
