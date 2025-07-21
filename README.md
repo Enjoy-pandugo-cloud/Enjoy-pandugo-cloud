@@ -34,7 +34,7 @@ ysathyasai.dev@gmail.com
 <a href="https://ysathyasai.medium.com/" target="_blank"><img align="center" src="https://github.com/Srish-ty/Srish-ty/assets/68679980/4971616b-63d4-4bd0-909d-c9176b8653ba" alt="ysathyasai" height="35" width="40" /></a>
 <a href="https://hashnode.com/@ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/6ed896bb-3dbd-4f37-9245-6a859d034c83" alt="ysathyasai" height="35" width="40" /></a>
 <a href="https://youtube.com/@ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/f701e70e-2155-4647-aaf2-142692dee57e" alt="ysathyasai" height="31" width="36" /></a>
-<a href="https://codepen.io/ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/33ddd75f-63a5-4b81-9f47-c037617a3ae3" alt="ysathyasai" height="35" width="40" /></a>
+<a href="https://codepen.io/ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/0019b58c-38d9-4051-9d93-9ae12e10ff32" alt="ysathyasai" height="35" width="40" /></a>
 <a href="https://www.behance.net/ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/ad4c6451-ae53-4055-9e4b-7117861a512f" alt="ysathyasai" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/ysathyasai/" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/48c8e838-6ffb-41c1-b908-55f750274722" alt="ysathyasai" height="40" width="45" /></a>
 <a href="https://www.codechef.com/users/ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/68e0454b-954f-4591-a355-0108c148686c" alt="ysathyasai" height="35" width="40" /></a>
