@@ -37,19 +37,19 @@ ysathyasai.dev@gmail.com
 <a href="https://dev.to/ysathyasai" target="blank"><img align="center" src="https://github.com/user-attachments/assets/3109daa8-4774-4446-98ff-f3530a2ae905" alt="ysathyasai" height="35" width="40" /></a>
 <a href="https://facebook.com/ysathyasai" target="blank"><img align="center" src="https://github.com/user-attachments/assets/c7f6d9ff-f506-484d-b77c-0f81340390ea" alt="ysathyasai" height="35" width="40" /></a>
 <a href="https://hashnode.com/@ysathyasai" target="blank"><img align="center" src="https://github.com/user-attachments/assets/6ed896bb-3dbd-4f37-9245-6a859d034c83" alt="ysathyasai" height="35" width="40" /></a>
-<a href="https://dribbble.com/ysathyasai" target="blank"><img align="center" src="https://github.com/user-attachments/assets/3c8f5214-8310-475c-8afd-98a78173defd" alt="ysathyasai" height="35" width="40" /></a>
 
 <a href="https://ysathyasai.medium.com/" target="blank"><img align="center" src="https://github.com/Srish-ty/Srish-ty/assets/68679980/4971616b-63d4-4bd0-909d-c9176b8653ba" alt="ysathyasai" height="35" width="40" /></a>
 <a href="https://linkedin.com/in/ysathyasai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ysathyasai" height="30" width="40" /></a>
-<a href="https://www.behance.net/ysathyasai" target="blank"><img align="center" src="https://github.com/user-attachments/assets/ad4c6451-ae53-4055-9e4b-7117861a512f" alt="ysathyasai" height="30" width="40" /></a>
 <a href="https://kaggle.com/ysathyasai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ysathyasai" height="30" width="40" /></a>
 <a href="https://x.com/ysathyasai" target="blank"><img align="center" src="https://github.com/user-attachments/assets/87a29fb0-05a4-466a-a7f7-0e1b0b0583b5" alt="ysathyasai" height="35" width="35" /></a>
 <a href="https://instagram.com/ysathyasai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ysathyasai" height="30" width="40" /></a>
 <a href="https://reddit.com/user/y_sathya_sai" target="blank"><img align="center" src="https://github.com/user-attachments/assets/509f2001-21a2-4663-87f9-412463b8becf" alt="y_sathya_sai" height="50" width="50" /></a>
 
+<a href="https://www.behance.net/ysathyasai" target="blank"><img align="center" src="https://github.com/user-attachments/assets/ad4c6451-ae53-4055-9e4b-7117861a512f" alt="ysathyasai" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/ysathyasai/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/48c8e838-6ffb-41c1-b908-55f750274722" alt="ysathyasai" height="35" width="40" /></a>
 <a href="https://www.codechef.com/users/ysathyasai" target="blank"><img align="center" src="https://github.com/user-attachments/assets/68e0454b-954f-4591-a355-0108c148686c" alt="ysathyasai" height="35" width="40" /></a>
 <a href="https://www.hackerrank.com/ysathyasai" target="blank"><img align="center" src="https://github.com/user-attachments/assets/43301af0-4e91-4349-b26f-7d34acd546ec" alt="ysathyasai" height="35" width="40" /></a>
+<a href="https://dribbble.com/ysathyasai" target="blank"><img align="center" src="https://github.com/user-attachments/assets/3c8f5214-8310-475c-8afd-98a78173defd" alt="ysathyasai" height="35" width="40" /></a>
 </div>
 
 <h1><img src="https://github.com/user-attachments/assets/0ece6e98-00f7-4e38-af34-470278793621" width="32px"> Tech Stack:</h1>
@@ -165,6 +165,44 @@ If you've made it this far, here's something [special](https://gist.github.com/y
 
 
 
+
+# Connect with me:
+
+<div align="center">
+
+## Professional & Development Platforms
+<a href="https://linkedin.com/in/ysathyasai" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ysathyasai" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/30141912/yejju-sathya-sai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/c717f2ab-2f1f-48de-8731-7044bfb1c821" alt="ysathyasai" height="35" width="40" /></a>
+<a href="https://dev.to/ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/3109daa8-4774-4446-98ff-f3530a2ae905" alt="ysathyasai" height="35" width="40" /></a>
+<a href="https://codepen.io/ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/33ddd75f-63a5-4b81-9f47-c037617a3ae3" alt="ysathyasai" height="35" width="40" /></a>
+
+## Coding & Competitive Programming
+<a href="https://leetcode.com/u/ysathyasai/" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/48c8e838-6ffb-41c1-b908-55f750274722" alt="ysathyasai" height="35" width="40" /></a>
+<a href="https://www.codechef.com/users/ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/68e0454b-954f-4591-a355-0108c148686c" alt="ysathyasai" height="35" width="40" /></a>
+<a href="https://www.hackerrank.com/ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/43301af0-4e91-4349-b26f-7d34acd546ec" alt="ysathyasai" height="35" width="40" /></a>
+<a href="https://kaggle.com/ysathyasai" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ysathyasai" height="30" width="40" /></a>
+
+## Content & Blogging
+<a href="https://ysathyasai.medium.com/" target="_blank"><img align="center" src="https://github.com/Srish-ty/Srish-ty/assets/68679980/4971616b-63d4-4bd0-909d-c9176b8653ba" alt="ysathyasai" height="35" width="40" /></a>
+<a href="https://hashnode.com/@ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/6ed896bb-3dbd-4f37-9245-6a859d034c83" alt="ysathyasai" height="35" width="40" /></a>
+<a href="https://youtube.com/@ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/f701e70e-2155-4647-aaf2-142692dee57e" alt="ysathyasai" height="35" width="40" /></a>
+
+## Social Media
+<a href="https://x.com/ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/87a29fb0-05a4-466a-a7f7-0e1b0b0583b5" alt="ysathyasai" height="35" width="35" /></a>
+<a href="https://instagram.com/ysathyasai" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ysathyasai" height="30" width="40" /></a>
+<a href="https://facebook.com/ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/c7f6d9ff-f506-484d-b77c-0f81340390ea" alt="ysathyasai" height="35" width="40" /></a>
+<a href="https://reddit.com/user/y_sathya_sai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/509f2001-21a2-4663-87f9-412463b8becf" alt="y_sathya_sai" height="35" width="40" /></a>
+
+## Creative & Design
+<a href="https://www.behance.net/ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/ad4c6451-ae53-4055-9e4b-7117861a512f" alt="ysathyasai" height="30" width="40" /></a>
+<a href="https://dribbble.com/ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/3c8f5214-8310-475c-8afd-98a78173defd" alt="ysathyasai" height="35" width="40" /></a>
+
+## Community & Communication
+<a href="https://discord.com/users/1271371075799744535" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/3cca9885-e48b-4bad-be30-e19a06e64ffa" alt="ysathyasai" height="35" width="40" /></a>
+<a href="https://mastodon.social/@ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/ee0748d5-cfbf-44c9-a7e6-2b03518971d6" alt="ysathyasai" height="35" width="40" /></a>
+<a href="https://bsky.app/profile/ysathyasai.bsky.social" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/2c819930-e86b-425e-b35e-830684d828f0" alt="ysathyasai" height="35" width="40" /></a>
+
+</div>
 
 
 
